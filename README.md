@@ -7,3 +7,4 @@ This repository contains the Python code for algorithms shown in [Algorithms for
 - `numpy 1.20.2`
 - `jaxlib 0.1.67`
 - `jax 0.2.13`
+- `cvxpy 1.1.12`
