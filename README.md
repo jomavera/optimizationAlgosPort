@@ -8,3 +8,4 @@ This repository contains the Python code for algorithms shown in [Algorithms for
 - `jaxlib 0.1.67`
 - `jax 0.2.13`
 - `cvxpy 1.1.12`
+- `scipy 1.6.3`
